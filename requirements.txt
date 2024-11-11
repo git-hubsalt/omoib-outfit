@@ -1,0 +1,9 @@
+transformers
+albumentations
+opencv-python-headless
+boto3
+Pillow
+requests
+numpy
+tqdm
+wandb
